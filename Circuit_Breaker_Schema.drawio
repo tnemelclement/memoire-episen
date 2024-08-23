@@ -254,6 +254,24 @@
             <mxPoint x="560" y="429.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y7_nB0V8ygfMz0F809Nx-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7_nB0V8ygfMz0F809Nx-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7_nB0V8ygfMz0F809Nx-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7_nB0V8ygfMz0F809Nx-24" value="Avec Proxy" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7_nB0V8ygfMz0F809Nx-25" value="Coté Client" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7_nB0V8ygfMz0F809Nx-26" value="Coté Service" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
