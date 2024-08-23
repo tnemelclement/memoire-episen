@@ -156,7 +156,7 @@
         <mxCell id="w98C9nr9TurW0YTiDl5e-24" value="Concurrence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w98C9nr9TurW0YTiDl5e-25" value="Check intervale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w98C9nr9TurW0YTiDl5e-25" value="Verification avec intervalle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w98C9nr9TurW0YTiDl5e-26" value="Seuil d&#39;erreur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
