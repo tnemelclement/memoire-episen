@@ -90,7 +90,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NxQNxxUCMg9JpCaYnrJb-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;n=0 (attendre 1000ms)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NxQNxxUCMg9JpCaYnrJb-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;n=0 (attendre 1060ms)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NxQNxxUCMg9JpCaYnrJb-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
